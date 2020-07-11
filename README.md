@@ -1,9 +1,9 @@
-### Hi there 👋
+### Oi, pessoal! 👋
 
 <!--
 **nikelyfedechen/nikelyfedechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo Nikely, estou me aventurando no mundo do desenvolvimento web há pouco tempo, depois de quase dez anos atuando na área de comunicação. Sempre sou lembrada pela forma ousada e criativa de resolver problemas, por ser uma profissional ágil e com entregas de qualidade.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
