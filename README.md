@@ -4,7 +4,7 @@ Me chamo Nikely, estou me aventurando no mundo do desenvolvimento web há pouco 
 
 Decidi trabalhar com programação depois de ter contato com o projeto do site da última empresa que trabalhei e me encantei com as soluções tecnológicas possíveis para encantar o público-alvo da companhia por meio da sua vitrine virtual.
 
-🎓 Graduada em Design Gráfico e pós-graduada em Comunicação digital
-✨ Trabalho para a segunda maior engarrafadora do Sistema Coca-Cola no Brasil
-🌴 Sou natural de São Paulo e cearense de coração
+🎓 Graduada em Design Gráfico e pós-graduada em Comunicação digital<br/>
+✨ Trabalho para a segunda maior engarrafadora do Sistema Coca-Cola no Brasil<br/>
+🌴 Sou natural de São Paulo e cearense de coração<br/>
 💻 Javascript • Vue.js • Go
