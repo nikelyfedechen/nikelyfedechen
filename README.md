@@ -1,6 +1,6 @@
 ### Oi, pessoal! 👋
 
-Me chamo Nikely, estou me aventurando no mundo do desenvolvimento web há pouco tempo, depois de quase dez anos atuando na área de comunicação. Meu foco atualmente é para a área de teste e garantia da qualidade de sistemas e softwares.
+Me chamo Nikely, estou me aventurando no mundo do desenvolvimento web há pouco tempo, depois de quase dez anos atuando na área de comunicação. Meu foco atualmente é para a área de teste e garantia de qualidade de sistemas e softwares.
 
 Acredito que para ser uma boa profissinal na área da TI, não posso me limitar, então, além da prática nos assuntos voltados para QA, seguirei estudando linguagens de programação, que com certeza serão minhas grandes aliadas em meus desafios.
 
