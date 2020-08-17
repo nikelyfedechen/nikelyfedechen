@@ -4,6 +4,5 @@ Me chamo Nikely, estou me aventurando no mundo do desenvolvimento web há pouco 
 
 Acredito que para ser uma boa profissinal na área da TI, não posso me limitar, então, além da prática nos assuntos voltados para QA, seguirei estudando linguagens de programação, que com certeza serão minhas grandes aliadas em meus desafios.
 
-🎓 Graduada em Design Gráfico e pós-graduada em Comunicação digital<br/>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br/>
 🌴 Natural de São Paulo e cearense de coração<br/>
-💻 Selenium • GIT • Javascript • Vue.js • Go
