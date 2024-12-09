@@ -1,5 +1,5 @@
 ## Olá, sou a Nik! 👋
-{ Javascript | Typescript | Reactjs | Nodejs }
+{ Typescript | Reactjs | Nodejs }
 
 - 💻 No teclado, sou desenvolvedora de software. No coração, uma fã de experiência do usuário de carteirinha.
 - 🌟 Sou apaixonada por criar soluções que deixam o mundo (ou pelo menos a web) um lugar melhor.
