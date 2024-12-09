@@ -3,7 +3,7 @@
 
 - 💻 No teclado, sou desenvolvedora de software. No coração, uma fã de experiência do usuário de carteirinha.
 - 🌟 Sou apaixonada por criar soluções que deixam o mundo (ou pelo menos a web) um lugar melhor.
-- 🤝 Amo compartilhar conhecimento e trocar ideias sobre tudo que envolve tecnologia, design e boas práticas.
+- 🤝 Amo compartilhar conhecimento e trocar ideias sobre tudo que envolve tecnologia.
 
 <!--
 <div align="left">
