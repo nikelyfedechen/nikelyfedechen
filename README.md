@@ -1,4 +1,4 @@
-## Olá eu sou a Nik! 👋
+## Olá, sou a Nik! 👋
 { Javascript | Typescript | Reactjs | Nodejs }
 
 - 💻 No teclado, sou desenvolvedora de software. No coração, uma fã de experiência do usuário de carteirinha.
