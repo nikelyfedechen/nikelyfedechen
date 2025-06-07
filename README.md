@@ -1,9 +1,8 @@
 ## Olá, sou a Nik! 👋
-{ Design Systems | Storybook | UI Libraries | Typescript | Reactjs }
+{  Reactjs | Typescript | Microfrontends | Storybook | UI Libraries }
 
 - 💻 No teclado, sou desenvolvedora de software. No coração, uma fã de experiência do usuário de carteirinha.
 - 🌟 Sou apaixonada por criar soluções que deixam o mundo (ou pelo menos a web) um lugar melhor.
-- 🎨 Meu foco é o desenvolvimento de **Design Systems**, promovendo consistência e produtividade em interfaces digitais.
 - ♿ Acredito que a web deve ser para todos! Busco desenvolver interfaces acessíveis e inclusivas.
 - 🤝 Amo compartilhar conhecimento e trocar ideias sobre tudo que envolve tecnologia.
 
